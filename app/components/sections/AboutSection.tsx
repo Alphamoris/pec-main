@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 "use client";
 import React from 'react';
 import { CosmicSection } from '../ui/CosmicSection';
